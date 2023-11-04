@@ -8,12 +8,12 @@ The data for this analysis is sourced from the article "Estimating the Live Body
 The analysis in this repository will follow several key steps:
 
 ### Simple Linear Regression (SLR) for Body Weight vs. Chest Girth
-1. We will create a simple linear regression (SLR) model to explore the relationship between body weight and chest girth. The regression equation will be developed, and the significance of the model will be tested using T-tests and the Coefficient of Determination.
+1. We will create a simple linear regression (SLR) model to explore the relationship between body weight and chest girth. 
 
-2. The B0 and B1 terms in the equation will be explained in their statistical context, with B0 representing the intercept, and B1 representing the coefficient of the chest girth.
+2. Scatter plots comparing the each variable to weight will be created.
 
 ### Multiple Linear Regression for Body Weight
-3. We will take the analysis a step further by creating a multiple linear regression model for body weight that includes chest girth and age as independent variables. This model will be tested with an F-Test and T-tests, where appropriate.
+3. We will take the analysis a step further by creating a multiple linear regression model for body weight that includes chest girth and age as independent variables. 
 
 4. The meanings of B0, B1, and B2 in this multiple regression equation will be discussed in terms of their statistical significance, with B0 as the intercept, B1 as the coefficient for chest girth, and B2 as the coefficient for age.
 
